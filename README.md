@@ -11,8 +11,8 @@ Alguns cursos já concluídos e/ou em andamento:
 - Logica de programação - Senac
 - Despertar.Dev - Web Full Stack com JavaScript, VueJs, Vuetify, PHP e Laravel - Growdev (Em Andamento)
 
-Principais Tecs 👇
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block"><strong><em>Principais Tecs</em></strong><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
