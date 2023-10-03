@@ -1,4 +1,4 @@
-## Bem-vindos ao meu gitHub sandroJrFleschMarques
+## Bem-vindos ao meu gitHub sandroJrFleschMarques 👨‍💻
 
 Profissional em mudança de carreira para Desenvolvedor de software júnior. Concluí o curso de lógica de programação no Senac-RS. Após entrei no processo seletivo Despertar.dev Sicredi Pioneira/RS em parceria com a startup GrowDev, entre 1207 inscrições e 89 aprovações, com testes de lógica e desenvolvimento do projeto codai/nikel um pequeno sistema de controle de finanças, fui um dos selecionados para uma das 30 bolsas de estudo para uma formação completa de Desenvolvimento Web Full Stack de 1 ano entre setembro/2023 e setembro/2024 com aproximadamente 1000 horas de carga horária. Busco vaga de desenvolvedor de software júnior.
 ## Esta página é dedicada a mostrar meus projetos e repositórios
