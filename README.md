@@ -6,16 +6,16 @@ Profissional em mudança de carreira para Desenvolvedor de software júnior. Con
 <img align="center" alt="dev" height="250" width="500" src="https://softdesign.com.br/wp-content/webpc-passthru.php?src=https://softdesign.com.br/wp-content/uploads/2022/05/Programacao-Funcional-scaled-2.jpg&nocache=1">
 Cursando Dev Web Full Stack...
 
-Alguns cursos já concluídos e/ou em andamento: 
+<strong><em>Alguns cursos já concluídos e/ou em andamento:</em></strong> 
 
 - Logica de programação - Senac
 - Despertar.Dev - Web Full Stack com JavaScript, VueJs, Vuetify, PHP e Laravel - Growdev (Em Andamento)
 
 
 <div style="display: inline_block"><strong><em>Principais Tecs</em></strong><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
   ### Me adicione nas redes abaixo!
