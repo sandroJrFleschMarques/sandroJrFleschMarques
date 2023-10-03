@@ -3,7 +3,7 @@
 Profissional em mudança de carreira para Desenvolvedor de software júnior. Concluí o curso de lógica de programação no Senac-RS. Após entrei no processo seletivo Despertar.dev Sicredi Pioneira/RS em parceria com a startup GrowDev, entre 1207 inscrições e 89 aprovações, com testes de lógica e desenvolvimento do projeto codai/nikel um pequeno sistema de controle de finanças, fui um dos selecionados para uma das 30 bolsas de estudo para uma formação completa de Desenvolvimento Web Full Stack de 1 ano entre setembro/2023 e setembro/2024 com aproximadamente 1000 horas de carga horária. Busco vaga de desenvolvedor de software júnior.
 ## Esta página é dedicada a mostrar meus projetos e repositórios
 
-<img align="center" alt="dev" height="500" width="1000" src="https://softdesign.com.br/wp-content/webpc-passthru.php?src=https://softdesign.com.br/wp-content/uploads/2022/05/Programacao-Funcional-scaled-2.jpg&nocache=1">
+<img align="center" alt="dev" height="250" width="500" src="https://softdesign.com.br/wp-content/webpc-passthru.php?src=https://softdesign.com.br/wp-content/uploads/2022/05/Programacao-Funcional-scaled-2.jpg&nocache=1">
 Cursando Dev Web Full Stack...
 
 Alguns cursos já concluídos e/ou em andamento: 
